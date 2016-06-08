@@ -1,4 +1,4 @@
-# MTKView-ContentScaleFactor
+# MTKView-ContentScaleFactor-OSX
 A simple category to support the UIView.contentScaleFactor property on OSX (on MTKView only)
 
 On iOS the UIView class provides the property contentScaleFactor
