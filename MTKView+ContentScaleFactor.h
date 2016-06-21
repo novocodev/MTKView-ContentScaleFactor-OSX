@@ -1,9 +1,5 @@
 //
 //  NSView+ContentScaleFactor.h
-//  voĉo
-//
-//  Created by Andrew Reslan on 08/06/2016.
-//  Copyright © 2016 Novoĉo. All rights reserved.
 //
 
 #ifdef __APPLE__
